@@ -1,0 +1,15 @@
+# Fixture build + Go/Python cross-validation
+# 2026-09-13T02:13:51Z  (python: Python 3.12.0)
+
+  ok  basic              200 B  public
+  ok  empty_sections      96 B  public
+  ok  alignment_gaps     176 B  public
+  ok  metadata_sort       80 B  held-out
+  ok  unicode            120 B  held-out
+  ok  long_name          304 B  held-out
+  ok  int64_zigzag       160 B  held-out
+  ok  float64_edges      112 B  held-out
+  ok  many_sections     1232 B  held-out
+  ok  mixed_order        152 B  held-out
+
+10 cases validated; 3 public, 7 held-out

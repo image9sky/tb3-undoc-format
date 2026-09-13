@@ -1,0 +1,62 @@
+{
+  "alignment_gaps": {
+    "bytes": 176,
+    "json_sha256": "c0922de19d9626201d799a22b1be75c333928134fd262e69ba10fb0d85517292",
+    "kdmp_sha256": "8fed9196485fa0587bff5f4f467fcbce4729fed9eda9598e518bb3e43273635f",
+    "public": true
+  },
+  "basic": {
+    "bytes": 200,
+    "json_sha256": "2fb43d466c52b7a40a9db511ca0a45a87e5aa1429017d83c7d11df4a1d64e9ba",
+    "kdmp_sha256": "a3e87fae2fce9aa1e2a66e0beadfc2ebbd9090a1ed9d5ca52575522c336f7e13",
+    "public": true
+  },
+  "empty_sections": {
+    "bytes": 96,
+    "json_sha256": "0564a6f261202976b587df99864910bf0f0b044edce9f25a32247150233c3c80",
+    "kdmp_sha256": "5150837e8dd4c2a5402733ae1750034bb6f81830c65bfc631229ba0016899c5f",
+    "public": true
+  },
+  "float64_edges": {
+    "bytes": 112,
+    "json_sha256": "23605ca74c5e6a558c6a7c1abeac88f6c934205644f004762fe8cbb4cb37cbc4",
+    "kdmp_sha256": "3684bbae5a9562b86cdb9278c5403bc4546dca6d379a97b840d9d2dbaaba83a7",
+    "public": false
+  },
+  "int64_zigzag": {
+    "bytes": 160,
+    "json_sha256": "b0f01cb6f43a2e39bccef42105b33eb38dea03ef4c38231d0bc121df09e32d26",
+    "kdmp_sha256": "2266c512579e4c519da290be9edaf12b3a0b0f4a1be7fe9e042a33d9262d43b2",
+    "public": false
+  },
+  "long_name": {
+    "bytes": 304,
+    "json_sha256": "9b88ea23e552a04e8c9a547466627e7b26d523b07f0c76af1b8e0e588ff24321",
+    "kdmp_sha256": "8570aee25d23e7a991b0da3cf18c331e72e55a46af3f49162ef6404bcc4d5fea",
+    "public": false
+  },
+  "many_sections": {
+    "bytes": 1232,
+    "json_sha256": "f35f62190e3d908d4644a5acf655f5d176470c1a245c5342671803ebb541e976",
+    "kdmp_sha256": "fc2fc900726acff92656c7652d462ba49563d76b509356c9eccc41b3a780a4ee",
+    "public": false
+  },
+  "metadata_sort": {
+    "bytes": 80,
+    "json_sha256": "e0069f5f4d1a8290930580546e5d17501956a4e2fa92457bf8a6615e99194f7b",
+    "kdmp_sha256": "1b737b8abea1ee62cb76d27c3cb38a504baa2980ede19ac7b7ac0e0b117e557e",
+    "public": false
+  },
+  "mixed_order": {
+    "bytes": 152,
+    "json_sha256": "fdac578c06215cd745daf30af19c1b87ec7f2984d0afa2f23f15e7d07e189629",
+    "kdmp_sha256": "370c16547375c5d6af8c3d21f083aba6d04f9a89b835019f4e96c5452dd10f9d",
+    "public": false
+  },
+  "unicode": {
+    "bytes": 120,
+    "json_sha256": "9f51c99d14bf9677fe3e55c8fc4f4feadfdfc1f184a575d907a35d772fbbb01d",
+    "kdmp_sha256": "a447b37e821926cc00c3391d30834ef37a81540ee51080f9de9f601f2b160303",
+    "public": false
+  }
+}

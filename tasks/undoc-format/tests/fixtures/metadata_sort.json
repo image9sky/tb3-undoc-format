@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "sections": [
+    {
+      "name": "x",
+      "type": "text",
+      "data": "x"
+    }
+  ],
+  "metadata": {
+    "z": "1",
+    "A": "2",
+    "_": "3",
+    "a": "4",
+    "Z": "5",
+    "0": "digit"
+  }
+}

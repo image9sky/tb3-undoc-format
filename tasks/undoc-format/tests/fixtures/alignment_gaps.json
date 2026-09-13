@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "sections": [
+    {
+      "name": "one",
+      "type": "blob",
+      "data": "AA=="
+    },
+    {
+      "name": "three",
+      "type": "blob",
+      "data": "AAEC"
+    },
+    {
+      "name": "seven",
+      "type": "blob",
+      "data": "AAECAwQFBgc="
+    },
+    {
+      "name": "nine",
+      "type": "blob",
+      "data": "AAECAwQFBgcICQ=="
+    },
+    {
+      "name": "tail",
+      "type": "float64",
+      "data": [
+        1.0
+      ]
+    }
+  ],
+  "metadata": {}
+}

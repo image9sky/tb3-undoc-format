@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "sections": [
+    {
+      "name": "café",
+      "type": "text",
+      "data": "naïve — 你好 🚀"
+    },
+    {
+      "name": "blob",
+      "type": "blob",
+      "data": "////"
+    }
+  ],
+  "metadata": {
+    "键": "值",
+    "emoji": "🔥"
+  }
+}

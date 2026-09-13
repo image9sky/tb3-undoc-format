@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+.pytest_cache/
+*.pyc
+
+# Local interpreter shim created by dev/run_static_checks.sh
+.shim/
+
+# Local Windows build of the reference tool (shipped binaries are kdmp-ref-*)
+tools/kdmp.exe
+
+# OS cruft
+Thumbs.db
+Desktop.ini
+.DS_Store

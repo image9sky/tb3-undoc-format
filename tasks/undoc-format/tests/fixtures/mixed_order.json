@@ -1,0 +1,34 @@
+{
+  "version": 2,
+  "sections": [
+    {
+      "name": "zf",
+      "type": "float64",
+      "data": [
+        1.0,
+        2.0
+      ]
+    },
+    {
+      "name": "ab",
+      "type": "blob",
+      "data": "AQID"
+    },
+    {
+      "name": "mm",
+      "type": "int64",
+      "data": [
+        5
+      ]
+    },
+    {
+      "name": "tt",
+      "type": "text",
+      "data": "über"
+    }
+  ],
+  "metadata": {
+    "b": "2",
+    "a": "1"
+  }
+}

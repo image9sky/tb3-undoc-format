@@ -1,0 +1,40 @@
+{
+  "version": 2,
+  "sections": [
+    {
+      "name": "greeting",
+      "type": "text",
+      "data": "hello world"
+    },
+    {
+      "name": "payload",
+      "type": "blob",
+      "data": "AAECA/8="
+    },
+    {
+      "name": "series",
+      "type": "int64",
+      "data": [
+        10,
+        9,
+        12,
+        12,
+        12,
+        7
+      ]
+    },
+    {
+      "name": "samples",
+      "type": "float64",
+      "data": [
+        1.5,
+        -2.25,
+        3.141592653589793
+      ]
+    }
+  ],
+  "metadata": {
+    "author": "tb3",
+    "version": "2"
+  }
+}

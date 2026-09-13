@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "sections": [
+    {
+      "name": "eb",
+      "type": "blob",
+      "data": ""
+    },
+    {
+      "name": "et",
+      "type": "text",
+      "data": ""
+    },
+    {
+      "name": "ei",
+      "type": "int64",
+      "data": []
+    },
+    {
+      "name": "ef",
+      "type": "float64",
+      "data": []
+    }
+  ],
+  "metadata": {}
+}
