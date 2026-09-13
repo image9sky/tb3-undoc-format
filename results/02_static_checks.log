@@ -1,5 +1,5 @@
 # Upstream TB3 static checks for tasks/undoc-format
-# 2026-09-13T03:11:58Z
+# 2026-09-13T03:42:08Z
 
 ===== check-canary (PASS) =====
 All files contain the required canary string
