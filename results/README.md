@@ -13,6 +13,8 @@ absolute paths from the authoring machine; their canonical copies live in the
 local, git-ignored `jobs/` directory that `harbor run` writes. `results/` ships
 only the small logs and result summaries needed to back the claims made below.
 The local verifier logs here are reproducible with `dev/run_verifier_local.sh`.
+In the shipped logs the authoring account name inside absolute paths has been
+replaced with `user`; no other log content was edited.
 
 ## 1. Environment
 
