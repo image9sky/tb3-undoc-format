@@ -13,3 +13,6 @@ tools/kdmp.exe
 Thumbs.db
 Desktop.ini
 .DS_Store
+
+# Harbor job outputs (large); curated result.json files are in results/
+jobs/
