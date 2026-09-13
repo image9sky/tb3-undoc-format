@@ -19,10 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-Third-party material: files under `docs/upstream/` are vendored, unmodified
-copies of the Terminal-Bench 3 contribution guide, review-automation notes, and
-CI check scripts, included for reference. They remain the property of their
-original authors and are not covered by the MIT license above.

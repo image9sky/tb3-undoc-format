@@ -42,7 +42,8 @@ tools/kdmp_ref.go            # AUTHOR-ONLY: reference tool source
 oracle/kdmp.py               # AUTHOR-ONLY: oracle implementation
 dev/                         # fixture builder, local runners, notes
 results/                     # check + verifier evidence logs
-LICENSE                      # MIT; vendored docs/upstream/ material excluded
+LICENSE                      # MIT
+NOTICE                       # provenance of the vendored docs/upstream/ files
 ```
 
 ## Evaluation status
@@ -195,6 +196,6 @@ afterwards.
 
 ## License
 
-MIT — see [`LICENSE`](LICENSE). Vendored files under `docs/upstream/` are
-third-party material and are excluded from that grant, as noted in the license
-file.
+MIT — see [`LICENSE`](LICENSE). The vendored files under `docs/upstream/` are
+third-party material, are not covered by that grant, and are documented
+separately in [`NOTICE`](NOTICE).
