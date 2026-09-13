@@ -22,6 +22,13 @@ Legend: `[x]` done · `[ ]` to do · `[~]` blocked on external access (model/API
       models (`openai/gpt-5.6-sol`, `anthropic/claude-opus-5`) are unreachable.
       Run the trials on a machine with the real model access.
 - [x] Docker + Harbor verified end to end (oracle and nop gates pass).
+- [~] **Agent-launch smoke trial attempted** (claude-code + deepseek-v4-pro,
+      timeout ×0.05). It failed in agent install because containers cannot reach
+      the proxy-routed hosts (`downloads.claude.ai`, `api.deepseek.com`): the
+      host proxy listens on `0.0.0.0:7897` but Windows Firewall blocks
+      container→host connections. Unblocking needs an elevated
+      `netsh advfirewall firewall add rule ... localport=7897` (or Docker
+      Desktop proxy settings). See `results/README.md` §2.1.
 
 ## 1. Author metadata & docs
 
