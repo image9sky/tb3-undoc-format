@@ -1,5 +1,5 @@
 # Fixture build + Go/Python cross-validation
-# 2026-09-13T02:13:51Z  (python: Python 3.12.0)
+# 2026-09-14T15:01:29Z  (python: Python 3.12.0)
 
   ok  basic              200 B  public
   ok  empty_sections      96 B  public
@@ -11,5 +11,20 @@
   ok  float64_edges      112 B  held-out
   ok  many_sections     1232 B  held-out
   ok  mixed_order        152 B  held-out
+  ok  v3_basic           256 B  public
+  ok  v3_types           192 B  public
+  ok  v3_empty            24 B  held-out
+  ok  v3_string_dedup    240 B  held-out
+  ok  v3_metadata_sort   112 B  held-out
+  ok  v3_rle             624 B  held-out
+  ok  v3_bool_edges      240 B  held-out
+  ok  v3_uint64_edges    176 B  held-out
+  ok  v3_int64_wrap      216 B  held-out
+  ok  v3_float_edges     128 B  held-out
+  ok  v3_alignment       352 B  held-out
+  ok  v3_long_name       864 B  held-out
+  ok  v3_unicode         184 B  held-out
+  ok  v3_many_sections  1984 B  held-out
+  ok  v3_mixed           336 B  held-out
 
-10 cases validated; 3 public, 7 held-out
+25 cases validated; 5 public, 20 held-out

@@ -1,0 +1,29 @@
+{
+  "version": 3,
+  "sections": [
+    {
+      "name": "café",
+      "type": "text",
+      "data": "naïve — 你好 🚀"
+    },
+    {
+      "name": "blob",
+      "type": "blob",
+      "data": "////"
+    },
+    {
+      "name": "café",
+      "type": "int64",
+      "data": [
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "metadata": {
+    "键": "值",
+    "🔥": "🔥",
+    "café": "shared"
+  }
+}

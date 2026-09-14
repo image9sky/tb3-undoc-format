@@ -1,0 +1,56 @@
+{
+  "version": 3,
+  "sections": [
+    {
+      "name": "blob",
+      "type": "blob",
+      "data": "AAECAwQFBgc="
+    },
+    {
+      "name": "text",
+      "type": "text",
+      "data": "zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz"
+    },
+    {
+      "name": "ints",
+      "type": "int64",
+      "data": [
+        5,
+        -5,
+        4611686018427387904,
+        -4611686018427387904
+      ]
+    },
+    {
+      "name": "floats",
+      "type": "float64",
+      "data": [
+        1.0,
+        2.5,
+        -3.75
+      ]
+    },
+    {
+      "name": "bools",
+      "type": "bool",
+      "data": [
+        true,
+        false,
+        true
+      ]
+    },
+    {
+      "name": "uints",
+      "type": "uint64",
+      "data": [
+        7,
+        18446744073709551615
+      ]
+    }
+  ],
+  "metadata": {
+    "b": "2",
+    "a": "1",
+    "text": "section name reused"
+  }
+}

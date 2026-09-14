@@ -1,0 +1,34 @@
+{
+  "version": 3,
+  "sections": [
+    {
+      "name": "shared",
+      "type": "text",
+      "data": "one"
+    },
+    {
+      "name": "shared",
+      "type": "blob",
+      "data": "AQI="
+    },
+    {
+      "name": "other",
+      "type": "text",
+      "data": "two"
+    },
+    {
+      "name": "shared",
+      "type": "int64",
+      "data": [
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "metadata": {
+    "shared": "key matches a section name",
+    "other": "key matches another",
+    "unique": "only here"
+  }
+}
