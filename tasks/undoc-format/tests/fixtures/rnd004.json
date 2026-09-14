@@ -1,0 +1,63 @@
+{
+  "version": 3,
+  "sections": [
+    {
+      "name": "键",
+      "type": "int64",
+      "data": [
+        -6578803934929051713
+      ]
+    },
+    {
+      "name": "nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn",
+      "type": "uint64",
+      "data": [
+        128,
+        4294967296,
+        9223372036854775808,
+        1,
+        4294967296
+      ]
+    },
+    {
+      "name": "café",
+      "type": "uint64",
+      "data": [
+        18446744073709551615,
+        18446744073709551615,
+        18446744073709551615,
+        9223372036854775808,
+        127,
+        12956575083570703819,
+        127,
+        0
+      ]
+    },
+    {
+      "name": "value",
+      "type": "blob",
+      "data": "QsKmlPU24DKb3zeA2yzOgT86"
+    },
+    {
+      "name": "data",
+      "type": "blob",
+      "data": "YC+s"
+    },
+    {
+      "name": "value",
+      "type": "int64",
+      "data": [
+        9223372036854775807,
+        0,
+        1047128259392,
+        -1,
+        0,
+        -9223372036854775808
+      ]
+    }
+  ],
+  "metadata": {
+    "b": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "data": "值"
+  }
+}

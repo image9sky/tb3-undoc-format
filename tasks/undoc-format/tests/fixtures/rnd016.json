@@ -1,0 +1,44 @@
+{
+  "version": 2,
+  "sections": [
+    {
+      "name": "shared",
+      "type": "int64",
+      "data": [
+        0,
+        9223372036854775807,
+        9223372036854775807,
+        6116725242673434958
+      ]
+    },
+    {
+      "name": "键",
+      "type": "int64",
+      "data": [
+        -1,
+        1,
+        -9223372036854775808,
+        1,
+        -1
+      ]
+    },
+    {
+      "name": "键",
+      "type": "int64",
+      "data": []
+    },
+    {
+      "name": "café",
+      "type": "blob",
+      "data": "xVR+NDo="
+    },
+    {
+      "name": "nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn",
+      "type": "text",
+      "data": "ZY-_c-c0YX a0acX"
+    }
+  ],
+  "metadata": {
+    "a": "v"
+  }
+}

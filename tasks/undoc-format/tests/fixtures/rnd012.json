@@ -1,0 +1,40 @@
+{
+  "version": 2,
+  "sections": [
+    {
+      "name": "shared",
+      "type": "text",
+      "data": "2é"
+    },
+    {
+      "name": "value",
+      "type": "float64",
+      "data": [
+        1.5,
+        1e+16
+      ]
+    },
+    {
+      "name": "café",
+      "type": "blob",
+      "data": "7QiXLCKUA9E="
+    },
+    {
+      "name": "键",
+      "type": "blob",
+      "data": "0aTgo2enLMuS1HOIrB4Jh4UMeUEEUa9wgzKbQg0="
+    },
+    {
+      "name": "x",
+      "type": "float64",
+      "data": [
+        1e-320,
+        1.0,
+        -1e+16,
+        1.5,
+        5e-324
+      ]
+    }
+  ],
+  "metadata": {}
+}

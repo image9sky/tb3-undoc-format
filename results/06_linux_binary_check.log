@@ -1,30 +1,7 @@
 arch: x86_64  binary: ELF 64-bit LSB executable, x86-64
 marker: KDMPREF-8f3a1c9e5b2d4706a1c4e9f07b3d2a68
+encode subcommand: kdmp: unknown command "encode"
 
-  encode byte-exact  alignment_gaps
-  encode byte-exact  basic
-  encode byte-exact  empty_sections
-  encode byte-exact  float64_edges
-  encode byte-exact  int64_zigzag
-  encode byte-exact  long_name
-  encode byte-exact  many_sections
-  encode byte-exact  metadata_sort
-  encode byte-exact  mixed_order
-  encode byte-exact  unicode
-  encode byte-exact  v3_alignment
-  encode byte-exact  v3_basic
-  encode byte-exact  v3_bool_edges
-  encode byte-exact  v3_empty
-  encode byte-exact  v3_float_edges
-  encode byte-exact  v3_int64_wrap
-  encode byte-exact  v3_long_name
-  encode byte-exact  v3_many_sections
-  encode byte-exact  v3_metadata_sort
-  encode byte-exact  v3_mixed
-  encode byte-exact  v3_rle
-  encode byte-exact  v3_string_dedup
-  encode byte-exact  v3_types
-  encode byte-exact  v3_uint64_edges
-  encode byte-exact  v3_unicode
 
-linux shipped binary: 25 exact, 0 mismatches
+shipped decode-only binary: 55 fixtures decoded to golden JSON, 0 failures
+non-canonical rejected: kdmp: non-canonical encoding

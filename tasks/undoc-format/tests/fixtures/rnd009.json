@@ -1,0 +1,66 @@
+{
+  "version": 3,
+  "sections": [
+    {
+      "name": "a",
+      "type": "uint64",
+      "data": [
+        127,
+        128,
+        9223372036854775808,
+        127,
+        18446744073709551615,
+        0
+      ]
+    },
+    {
+      "name": "value",
+      "type": "bool",
+      "data": [
+        false,
+        false,
+        true,
+        false,
+        true,
+        true,
+        false,
+        true,
+        false,
+        true,
+        false,
+        true,
+        false,
+        true
+      ]
+    },
+    {
+      "name": "shared",
+      "type": "uint64",
+      "data": [
+        1,
+        9223372036854775808,
+        128,
+        9223372036854775808,
+        4294967296,
+        128,
+        128,
+        128
+      ]
+    },
+    {
+      "name": "a",
+      "type": "uint64",
+      "data": []
+    },
+    {
+      "name": "b",
+      "type": "float64",
+      "data": []
+    }
+  ],
+  "metadata": {
+    "a": "1",
+    "key": "-1",
+    "data": "1"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "sections": [
+    {
+      "name": "shared",
+      "type": "blob",
+      "data": "d4rFd3lSl9FppodLKoM21Shd67I8uC9L/mk="
+    },
+    {
+      "name": "键",
+      "type": "int64",
+      "data": [
+        1,
+        -1075023109253,
+        -1,
+        -9223372036854775808,
+        -809951850578
+      ]
+    }
+  ],
+  "metadata": {
+    "b": "",
+    "z": "v"
+  }
+}

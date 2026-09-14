@@ -1,0 +1,26 @@
+{
+  "version": 3,
+  "sections": [
+    {
+      "name": "shared",
+      "type": "blob",
+      "data": "6CBZas2Rsgk="
+    },
+    {
+      "name": "value",
+      "type": "float64",
+      "data": [
+        1e-320,
+        1.0,
+        1.0,
+        -1e+16,
+        1e-320
+      ]
+    }
+  ],
+  "metadata": {
+    "shared": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "key": "值",
+    "z": "value"
+  }
+}

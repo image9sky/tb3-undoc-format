@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "sections": [
+    {
+      "name": "café",
+      "type": "int64",
+      "data": [
+        -1,
+        3916707997557019008,
+        -1,
+        -9223372036854775808,
+        -1,
+        1,
+        0,
+        6747184356065831574
+      ]
+    },
+    {
+      "name": "a",
+      "type": "blob",
+      "data": "NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NgxFPNfr05b3JMnK+Ll6v4978mBOoyOxjbPjwwsesirzmynerDg="
+    }
+  ],
+  "metadata": {
+    "z": "v",
+    "key": "v"
+  }
+}

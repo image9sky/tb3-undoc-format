@@ -1,0 +1,35 @@
+{
+  "version": 3,
+  "sections": [
+    {
+      "name": "a",
+      "type": "float64",
+      "data": [
+        1.7976931348623157e+308,
+        3.141592653589793,
+        3.141592653589793,
+        -0.5,
+        1e-320
+      ]
+    },
+    {
+      "name": "b",
+      "type": "float64",
+      "data": [
+        1.0
+      ]
+    },
+    {
+      "name": "value",
+      "type": "float64",
+      "data": [
+        1.0
+      ]
+    }
+  ],
+  "metadata": {
+    "data": "1",
+    "a": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "shared": "value"
+  }
+}

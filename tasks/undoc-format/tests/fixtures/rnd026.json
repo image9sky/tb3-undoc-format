@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "sections": [
+    {
+      "name": "x",
+      "type": "text",
+      "data": "1🚀X3é3aY1X-Y3cé你1X0a .__2 Xé23🚀éé你🚀🚀c"
+    },
+    {
+      "name": "b",
+      "type": "blob",
+      "data": "zbxgueU82c22rGY="
+    },
+    {
+      "name": "a",
+      "type": "int64",
+      "data": [
+        -6466446073560812950,
+        9223372036854775807
+      ]
+    },
+    {
+      "name": "value",
+      "type": "text",
+      "data": "302.🚀bY你Y你_-_Y1 2🚀Xb_🚀aX3-.bY.🚀"
+    }
+  ],
+  "metadata": {
+    "z": "",
+    "data": "值"
+  }
+}

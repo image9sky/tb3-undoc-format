@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "sections": [
+    {
+      "name": "café",
+      "type": "float64",
+      "data": [
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "name": "data",
+      "type": "blob",
+      "data": "Li4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4ucHesrZ6B7y2i5BWkfw=="
+    }
+  ],
+  "metadata": {
+    "data": "值",
+    "key": "-1"
+  }
+}

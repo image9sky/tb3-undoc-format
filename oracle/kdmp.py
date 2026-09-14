@@ -348,10 +348,17 @@ def decode(path: str):
         die("bad magic")
     if data[4] == V2:
         doc = _read_v2(data)
+        canonical = _build_v2(doc)
     elif data[4] == V3:
         doc = _read_v3(data)
+        canonical = _build_v3(doc)
     else:
         die(f"unsupported version {data[4]}")
+    # Canonical-form validation: accept exactly the byte streams the canonical
+    # encoder produces, so `decode` is a complete oracle for byte-exact
+    # reimplementation.
+    if canonical != data:
+        die("non-canonical encoding")
     sys.stdout.write(json.dumps(doc, indent=2) + "\n")
 
 

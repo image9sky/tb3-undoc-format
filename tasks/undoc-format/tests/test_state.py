@@ -33,8 +33,8 @@ RUN_TIMEOUT = 60
 # implementing the format.
 REF_MARKER = b"KDMPREF-8f3a1c9e5b2d4706a1c4e9f07b3d2a68"
 REF_SHA256 = {
-    "bb57b73ce27968c5bb4e4836a475ace0a538fa22f9f0294b163879ee60adbecd",
-    "9cd64b76ccf94fd711e1780ecc2fc2eb86db290fa04a2d17f16e53f8cf17982f",
+    "28d26b7f7cfa357a32428c6e3872ce1a95910ed6fa781e24c2e73bb4ccee5a58",
+    "c9e2d2b409e0ffc99196ab1c31a260805b1f4e481f134e7a58aacab45716e318",
 }
 
 

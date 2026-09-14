@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "sections": [
+    {
+      "name": "x",
+      "type": "blob",
+      "data": "8MNwhorTNhxDYTs="
+    },
+    {
+      "name": "café",
+      "type": "int64",
+      "data": [
+        -9223372036854775808,
+        6877790405950638368,
+        1,
+        -1
+      ]
+    }
+  ],
+  "metadata": {
+    "b": "v",
+    "a": "1"
+  }
+}

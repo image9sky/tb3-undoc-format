@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "sections": [
+    {
+      "name": "value",
+      "type": "float64",
+      "data": [
+        1e-320
+      ]
+    },
+    {
+      "name": "a",
+      "type": "blob",
+      "data": "iBYR2BV8MVFf"
+    }
+  ],
+  "metadata": {
+    "shared": "值",
+    "a": "v"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "version": 3,
+  "sections": [
+    {
+      "name": "nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn",
+      "type": "float64",
+      "data": [
+        -1e+16,
+        1.0,
+        1.5
+      ]
+    },
+    {
+      "name": "x",
+      "type": "text",
+      "data": "_3🚀1bb -12__Y2-_-  b_ éébc.c2-2a🚀"
+    },
+    {
+      "name": "nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn",
+      "type": "int64",
+      "data": [
+        -1,
+        637149182599,
+        0
+      ]
+    },
+    {
+      "name": "键",
+      "type": "bool",
+      "data": [
+        true,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "name": "value",
+      "type": "bool",
+      "data": [
+        true,
+        true,
+        true,
+        false,
+        true,
+        true,
+        true,
+        false,
+        false,
+        true
+      ]
+    }
+  ],
+  "metadata": {
+    "a": "v",
+    "b": ""
+  }
+}
