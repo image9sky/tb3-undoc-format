@@ -1,32 +1,13 @@
 {
-  "version": 3,
+  "version": 2,
   "sections": [
     {
-      "name": "shared",
-      "type": "float64",
-      "data": [
-        -2.25,
-        2.2250738585072014e-308
-      ]
-    },
-    {
       "name": "b",
-      "type": "int64",
-      "data": [
-        327773115282,
-        9223372036854775807,
-        427789392158
-      ]
-    },
-    {
-      "name": "a",
-      "type": "float64",
-      "data": []
+      "type": "text",
+      "data": "_qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq"
     }
   ],
   "metadata": {
-    "key": "1",
-    "z": "1",
-    "shared": "值"
+    "a": "-1"
   }
 }

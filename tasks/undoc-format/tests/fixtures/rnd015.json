@@ -1,63 +1,82 @@
 {
-  "version": 3,
+  "version": 4,
   "sections": [
     {
-      "name": "nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn",
-      "type": "float64",
+      "name": "value",
+      "type": "int64",
       "data": [
-        1e+16,
-        0.1,
-        123456789.12345679,
-        1.0,
-        -0.5,
-        -0.5
+        624013310771,
+        2020059278520394689,
+        996100024787,
+        -1,
+        -9223372036854775808
       ]
     },
     {
       "name": "café",
-      "type": "int64",
+      "type": "bool",
       "data": [
-        1,
-        87425056645,
-        9223372036854775807,
-        166015202381,
-        9223372036854775807,
-        -1,
-        0,
-        781045898759
+        false,
+        false,
+        false,
+        false,
+        true,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "name": "shared",
+      "type": "bool",
+      "data": [
+        true,
+        true,
+        false,
+        false,
+        false,
+        true,
+        true,
+        true,
+        false,
+        false,
+        true,
+        true,
+        false
       ]
     },
     {
       "name": "value",
-      "type": "uint64",
+      "type": "int64",
       "data": [
-        9223372036854775808
+        8413505257537463009,
+        -9223372036854775808,
+        -9223372036854775808,
+        -5180138068845850427
       ]
     },
     {
-      "name": "nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn",
-      "type": "blob",
-      "data": "1uH0xyIbSpAT6SIAgbt2bwvIBM/ihMSSo+BqspgM"
-    },
-    {
-      "name": "nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn",
-      "type": "float64",
-      "data": [
-        1e-320,
-        1.7976931348623157e+308
-      ]
-    },
-    {
-      "name": "café",
+      "name": "x",
       "type": "uint64",
       "data": [
-        127
+        18446744073709551615,
+        1,
+        1,
+        9223372036854775808,
+        0
       ]
     }
   ],
   "metadata": {
-    "z": "value",
-    "b": "value",
-    "a": "值"
+    "data": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "a": "1"
   }
 }

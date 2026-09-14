@@ -1,7 +1,15 @@
 {
   "version": 2,
-  "sections": [],
+  "sections": [
+    {
+      "name": "café",
+      "type": "blob",
+      "data": "HYLqlM169L+70B9vIDuKKBcbOovW9AMYhdTZI2KQih9i3Pvc5gU="
+    }
+  ],
   "metadata": {
-    "data": "value"
+    "shared": "1",
+    "b": "1",
+    "data": "v"
   }
 }

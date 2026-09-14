@@ -1,35 +1,39 @@
 {
-  "version": 3,
+  "version": 4,
   "sections": [
     {
-      "name": "a",
+      "name": "nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn",
       "type": "float64",
       "data": [
+        -2.25,
         1.7976931348623157e+308,
-        3.141592653589793,
-        3.141592653589793,
-        -0.5,
-        1e-320
+        1.7976931348623157e+308,
+        5e-324,
+        3.141592653589793
       ]
     },
     {
-      "name": "b",
-      "type": "float64",
-      "data": [
-        1.0
-      ]
+      "name": "shared",
+      "type": "bool",
+      "data": []
     },
     {
-      "name": "value",
+      "name": "data",
       "type": "float64",
+      "data": []
+    },
+    {
+      "name": "键",
+      "type": "int64",
       "data": [
-        1.0
+        394310998080,
+        9223372036854775807,
+        -9223372036854775808
       ]
     }
   ],
   "metadata": {
-    "data": "1",
-    "a": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
-    "shared": "value"
+    "shared": "value",
+    "key": "-1"
   }
 }

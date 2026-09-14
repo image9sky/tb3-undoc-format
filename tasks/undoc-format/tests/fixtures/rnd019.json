@@ -2,20 +2,26 @@
   "version": 2,
   "sections": [
     {
+      "name": "data",
+      "type": "text",
+      "data": "1ZY-_c-c0YX a0acX.0Zb_Y.X-"
+    },
+    {
       "name": "value",
-      "type": "float64",
-      "data": [
-        1e-320
-      ]
+      "type": "text",
+      "data": "b🚀0013_"
     },
     {
       "name": "a",
-      "type": "blob",
-      "data": "iBYR2BV8MVFf"
+      "type": "float64",
+      "data": [
+        123456789.12345679,
+        -1.0,
+        1e+16
+      ]
     }
   ],
   "metadata": {
-    "shared": "值",
-    "a": "v"
+    "shared": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
   }
 }

@@ -2,19 +2,16 @@
   "version": 2,
   "sections": [
     {
-      "name": "a",
-      "type": "int64",
-      "data": [
-        9223372036854775807,
-        0,
-        46504839625496859,
-        -460575066098
-      ]
+      "name": "b",
+      "type": "float64",
+      "data": []
     },
     {
-      "name": "x",
-      "type": "blob",
-      "data": "Dg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODiSWsqJaCIex/tdDVwsK6s8LIhISwwuUV8hdJKsB7oCYyex2NMWAnS8="
+      "name": "b",
+      "type": "int64",
+      "data": [
+        -1
+      ]
     }
   ],
   "metadata": {}

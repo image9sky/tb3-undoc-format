@@ -1,25 +1,65 @@
 {
-  "version": 2,
+  "version": 4,
   "sections": [
     {
-      "name": "shared",
-      "type": "blob",
-      "data": "d4rFd3lSl9FppodLKoM21Shd67I8uC9L/mk="
+      "name": "x",
+      "type": "float64",
+      "data": [
+        1e+16,
+        3.141592653589793,
+        123456789.12345679,
+        0.1,
+        2.2250738585072014e-308,
+        -1e+16
+      ]
     },
     {
-      "name": "键",
+      "name": "value",
+      "type": "bool",
+      "data": [
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "name": "data",
       "type": "int64",
       "data": [
         1,
-        -1075023109253,
+        -1,
+        0,
+        6397162337831959716
+      ]
+    },
+    {
+      "name": "nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn",
+      "type": "uint64",
+      "data": [
+        0,
+        0,
+        18446744073709551615
+      ]
+    },
+    {
+      "name": "b",
+      "type": "int64",
+      "data": [
         -1,
         -9223372036854775808,
-        -809951850578
+        -9223372036854775808,
+        -3983495484655590174,
+        6747184356065831574,
+        -8786195993337024298,
+        752129753179,
+        -1910557650944185854
       ]
     }
   ],
   "metadata": {
-    "b": "",
-    "z": "v"
+    "z": "-1",
+    "b": "-1"
   }
 }

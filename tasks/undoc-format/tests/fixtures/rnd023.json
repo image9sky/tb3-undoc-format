@@ -2,19 +2,32 @@
   "version": 3,
   "sections": [
     {
-      "name": "shared",
-      "type": "text",
-      "data": "2_b2Z1你Z_c"
+      "name": "b",
+      "type": "int64",
+      "data": [
+        -9223372036854775808
+      ]
     },
     {
-      "name": "nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn",
-      "type": "blob",
-      "data": "KCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKOPrX+TEfJdjTUU8bUPCiEFt88SHr5Dpwg=="
+      "name": "shared",
+      "type": "uint64",
+      "data": [
+        4294967296,
+        9223372036854775808,
+        127,
+        4294967296,
+        128
+      ]
+    },
+    {
+      "name": "x",
+      "type": "uint64",
+      "data": [
+        127
+      ]
     }
   ],
   "metadata": {
-    "data": "value",
-    "z": "",
-    "b": "-1"
+    "b": "v"
   }
 }

@@ -1,56 +1,43 @@
 {
-  "version": 2,
+  "version": 4,
   "sections": [
     {
-      "name": "a",
+      "name": "nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn",
       "type": "float64",
       "data": [
-        0.1
+        -2.25
       ]
     },
     {
-      "name": "shared",
-      "type": "int64",
+      "name": "键",
+      "type": "bool",
       "data": [
-        -9223372036854775808,
-        9223372036854775807,
-        -1,
-        0
-      ]
-    },
-    {
-      "name": "café",
-      "type": "int64",
-      "data": [
-        9223372036854775807,
-        1,
-        1
-      ]
-    },
-    {
-      "name": "a",
-      "type": "float64",
-      "data": [
-        0.0,
-        1.5,
-        123456789.12345679,
-        1e-320
+        true,
+        true,
+        true,
+        false,
+        true,
+        false
       ]
     },
     {
       "name": "data",
       "type": "int64",
       "data": [
-        -232766097586,
-        9223372036854775807,
-        -567896525621,
-        -9223372036854775808,
-        9223372036854775807
+        586156902273,
+        410172861657,
+        1
       ]
+    },
+    {
+      "name": "a",
+      "type": "text",
+      "data": "1.1YY0éZXaéb你YX.Z.0.-cYa3-_a a1c-.00 b"
     }
   ],
   "metadata": {
-    "key": "-1",
-    "a": ""
+    "key": "value",
+    "shared": "value",
+    "data": "-1"
   }
 }

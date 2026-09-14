@@ -2,31 +2,32 @@
   "version": 2,
   "sections": [
     {
-      "name": "x",
-      "type": "text",
-      "data": "1🚀X3é3aY1X-Y3cé你1X0a .__2 Xé23🚀éé你🚀🚀c"
-    },
-    {
-      "name": "b",
-      "type": "blob",
-      "data": "zbxgueU82c22rGY="
-    },
-    {
       "name": "a",
-      "type": "int64",
+      "type": "float64",
       "data": [
-        -6466446073560812950,
-        9223372036854775807
+        -2.25,
+        1.5,
+        -2.25,
+        1e-320,
+        1.5,
+        1.7976931348623157e+308
       ]
     },
     {
-      "name": "value",
-      "type": "text",
-      "data": "302.🚀bY你Y你_-_Y1 2🚀Xb_🚀aX3-.bY.🚀"
+      "name": "b",
+      "type": "float64",
+      "data": [
+        0.1,
+        0.0,
+        5e-324,
+        -0.5,
+        1e+16
+      ]
     }
   ],
   "metadata": {
-    "z": "",
-    "data": "值"
+    "shared": "1",
+    "z": "1",
+    "b": "值"
   }
 }

@@ -1,0 +1,23 @@
+{
+  "version": 4,
+  "sections": [
+    {
+      "name": "one",
+      "type": "blob",
+      "data": "AAcOFRwjKjE4P0ZNVFtiaXB3foWMk5qhqK+2vcTL0tng5+71/AMKERgfJi00O0JJUFdeZWxzeoGIj5adpKuyuQAHDhUcIyoxOD9GTVRbYmlwd36FjJOaoaivtr3Ey9LZ4Ofu9fwDChEYHyYtNDtCSVBXXmVsc3qBiI+WnaSrsrk="
+    },
+    {
+      "name": "two",
+      "type": "blob",
+      "data": "AAcOFRwjKjE4P0ZNVFtiaXB3foWMk5qhqK+2vcTL0tng5+71/AMKERgfJi00O0JJUFdeZWxzeoGIj5adpKuyuQUSHyw5RlNgbXqHlKGuu8jV4u/8CRYjMD1KV2RxfouYpbK/zNnm8wANGic0QU5baHWCj5yptsPQ3er3BBEeKzg="
+    },
+    {
+      "name": "three",
+      "type": "blob",
+      "data": "BRIfLDlGU2BteoeUoa67yNXi7/wJFiMwPUpXZHF+i5ilsr/M2ebzAA0aJzRBTltodYKPnKm2w9Dd6vcEER4rOAAHDhUcIyoxOD9GTVRbYmlwd36FjJOaoaivtr3Ey9LZ4Ofu9fwDChEYHyYtNDtCSVBXXmVsc3qBiI+WnaSrsrk="
+    }
+  ],
+  "metadata": {
+    "shared": "yes"
+  }
+}

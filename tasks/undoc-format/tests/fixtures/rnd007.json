@@ -1,35 +1,22 @@
 {
-  "version": 3,
+  "version": 4,
   "sections": [
     {
-      "name": "nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn",
-      "type": "uint64",
-      "data": [
-        9223372036854775808,
-        1,
-        1
-      ]
+      "name": "café",
+      "type": "text",
+      "data": "_X 32-é_Y"
     },
     {
-      "name": "a",
-      "type": "blob",
-      "data": "OovW9AMYhdTZI2KQih9i3Pvc5gVv0vlXQujE7KlDWM8n2Js="
-    },
-    {
-      "name": "a",
+      "name": "shared",
       "type": "int64",
-      "data": []
-    },
-    {
-      "name": "nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn",
-      "type": "bool",
       "data": [
-        true,
-        false
+        -9223372036854775808
       ]
     }
   ],
   "metadata": {
-    "b": "1"
+    "key": "value",
+    "shared": "",
+    "b": ""
   }
 }
