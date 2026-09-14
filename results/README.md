@@ -599,3 +599,6 @@ entirely and added a real mechanism.
 
 **Status: not started** — held deliberately after the modifications. Same
 DeepSeek V4.1 Flash configuration; when run they must be serial (see §7.4).
+See [`TRIALS_RUNBOOK.md`](TRIALS_RUNBOOK.md) and
+[`../dev/run_trials_serial.sh`](../dev/run_trials_serial.sh) for the operational
+recipe (claude base image, shim Dockerfile, exact harbor command).

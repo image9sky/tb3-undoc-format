@@ -100,7 +100,12 @@ bash dev/run_verifier_local.sh
 python3 dev/build_fixtures.py
 ```
 
-Full TB3 runs (need Harbor + the test-model credentials; Docker is available here):
+Full TB3 runs (need Harbor + the test-model credentials; Docker is available here).
+The operational recipe — including the claude-code base image, the local Dockerfile
+shim, the serial + Docker-watchdog runner, and the exact Harbor command — is in
+[`results/TRIALS_RUNBOOK.md`](results/TRIALS_RUNBOOK.md) and
+[`dev/run_trials_serial.sh`](dev/run_trials_serial.sh):
+
 
 ```bash
 uv tool install harbor
