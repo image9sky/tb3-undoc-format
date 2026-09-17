@@ -90,6 +90,7 @@ run_job() {
     local base="$1" max_attempts=8 attempt=0 name oc ep now wait rc jd args
     while [ "$attempt" -lt "$max_attempts" ]; do
         attempt=$((attempt+1))
+        rc=""
         name="${base}-a${attempt}"
         jd="$OUT/$name"
         ensure_docker || { log "docker unavailable; retry in 60s"; sleep 60; continue; }
