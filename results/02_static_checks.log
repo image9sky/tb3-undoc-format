@@ -1,5 +1,5 @@
 # Upstream TB3 static checks for tasks/undoc-format
-# 2026-09-14T22:46:11Z
+# 2026-09-17T14:04:35Z
 
 PASS  check-canary
 PASS  check-instruction-suffix
@@ -24,4 +24,3 @@ PASS  check-gpu-types
 PASS  check-task-slug
 
 All static checks passed.
-Log: /tmp/tmp.pkRsZgMgYM

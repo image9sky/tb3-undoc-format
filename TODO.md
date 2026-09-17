@@ -54,6 +54,13 @@ The Zhipu (BigModel) credentials are now configured on this Windows host as
 
 ## 3. TODO
 
+- [ ] **Run the brief's required flagship configurations** — codex
+      (`openai/gpt-5.6-sol`, `reasoning_effort=xhigh`) and claude-code
+      (`anthropic/claude-opus-5`, `reasoning_effort=max`) — `/run` ×3 and
+      `/cheat` ×1 each, on a host with those subscriptions. The DeepSeek/GLM
+      substitutes in §6 are the strongest reachable here but do **not** satisfy
+      the literal requirement; if either flagship passes even once, harden
+      further (see `README.md` *Assignment requirements — status*).
 - [x] **GLM-5.3 `/run` ×3** against L1+L2 (the main open item). → **1/3 (33%)**,
       evidence `results/11_l1l2_glm53_*`.
 - [x] **GLM-5.3 `/cheat` ×1** (adversarial; must score 0.0). → **0.0**, agent
